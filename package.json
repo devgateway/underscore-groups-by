@@ -1,0 +1,14 @@
+{
+  "name": "underscore-groups-by",
+  "description": "Many-to-many grouping of objects in a list.",
+  "keywords": ["underscore", "mixin", "groupBy", "many-to-many"],
+  "version": "0.0.1",
+  "author": "uniphil",
+  "main": "groups-by-mixin.js",
+  "files": ["groups-by-mixin.js"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/devgateway/underscore-groups-by.git"
+  },
+  "homepage": "https://github.com/devgateway/underscore-groups-by"
+}
